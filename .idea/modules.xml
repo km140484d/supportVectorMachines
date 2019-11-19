@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/SupportVectorMachines.iml" filepath="$PROJECT_DIR$/.idea/SupportVectorMachines.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../linearnaRegresija/.idea/linearnaRegresija.iml" filepath="$PROJECT_DIR$/../linearnaRegresija/.idea/linearnaRegresija.iml" />
     </modules>
   </component>
 </project>
